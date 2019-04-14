@@ -7,6 +7,12 @@
     
     
 
-'scp -r redhat@47.106.129.114:~/redhat ./'
+`scp -r redhat@47.106.129.114:~/redhat ./`
+
+- 安装git2.9.5所需包
+    ```
+    yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel
+    yum install gcc perl-ExtUtils-MakeMaker
+    ```
 
 
