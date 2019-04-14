@@ -7,7 +7,7 @@
     
     
 - 下载必备包
-`scp -r redhat@47.106.129.114:~/redhat ./`
+    `scp -r redhat@47.106.129.114:~/redhat ./`
 
 - 安装git2.9.5所需包
     ```
