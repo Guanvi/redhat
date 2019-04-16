@@ -19,8 +19,7 @@
 - 交换左Control和Caps Lock键
     `setxkbmap -option ctrl:swapcaps`
     
-    
--将caps lock键改为ctrl键
+- 将caps lock键改为ctrl键
     `setxkbmap -option ctrl:nocaps`
 
 
