@@ -1,5 +1,5 @@
 # redhat
-- 隐藏下边人物栏
+- 隐藏下边任务栏
 
     `mv /usr/share/gnome-shell/extensions/window-list@gnome-shell-extensions.gcampax.github.com \
     /usr/share/gnome-shell/extensions/window-list@gnome-shell-extensions.gcampax.github.com.back`
