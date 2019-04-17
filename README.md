@@ -26,7 +26,7 @@
 - 安装rust及bat
     
     ```
-    cargo install bat
+    curl https://sh.rustup.rs -sSf | sh
     source $HOME/.cargo/env
     cargo install bat
     ```
