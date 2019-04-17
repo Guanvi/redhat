@@ -21,6 +21,15 @@
     
 - 将caps lock键改为ctrl键
     `setxkbmap -option ctrl:nocaps`
+    
+    
+- 安装rust及bat
+    
+    ```
+    cargo install bat
+    source $HOME/.cargo/env
+    cargo install bat
+    ```
 
 
 
