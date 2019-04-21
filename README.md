@@ -37,6 +37,7 @@
      wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
      chmod 700 bbr.sh
      ./bbr.sh
+     重启服务器，输入 lsmod | grep bbr 如果看到 tcp_bbr 就说明 BBR 已经启动了。
      ```
 
 
