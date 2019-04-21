@@ -33,11 +33,10 @@
 
 - vultr使用BBR加速上网
 
-    - 安装bbr
-            ```
-            wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
-            chmod 700 bbr.sh
-            ./bbr.sh
-            ```
+     ```
+     wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+     chmod 700 bbr.sh
+     ./bbr.sh
+     ```
 
 
